@@ -1,0 +1,500 @@
+{
+    "meta": {
+        "year": 2025,
+        "month": 11
+    },
+    "promedio_diario_conversaciones": {
+        "metadatos": {
+            "total_sin_filtrar": 2416,
+            "total_ignorados": 303,
+            "total_festivos": 9,
+            "total_filtrado_final": 2104
+        },
+        "datos": [
+            {
+                "dia": "lunes",
+                "promedio_conversaciones": 110.5
+            },
+            {
+                "dia": "martes",
+                "promedio_conversaciones": 112.0
+            },
+            {
+                "dia": "miercoles",
+                "promedio_conversaciones": 102.25
+            },
+            {
+                "dia": "jueves",
+                "promedio_conversaciones": 120.25
+            },
+            {
+                "dia": "viernes",
+                "promedio_conversaciones": 103.0
+            },
+            {
+                "dia": "sabado",
+                "promedio_conversaciones": 31.0
+            },
+            {
+                "dia": "domingo",
+                "promedio_conversaciones": 4.5
+            }
+        ]
+    },
+    "promedio_mensajes_por_hora": {
+        "metadatos": {
+            "total_mensajes_raw": 115364,
+            "total_mensajes_filtrados": 37640,
+            "total_mensajes_contacto": 12461,
+            "total_mensajes_agentes": 11694
+        },
+        "datos": [
+            {
+                "hour": 1,
+                "lunes": 0.0,
+                "martes": 0.0,
+                "miercoles": 0.0,
+                "jueves": 0.0,
+                "viernes": 1.0,
+                "sabado": 0.0,
+                "domingo": 0.0
+            },
+            {
+                "hour": 3,
+                "lunes": 0.0,
+                "martes": 2.0,
+                "miercoles": 0.0,
+                "jueves": 0.0,
+                "viernes": 0.0,
+                "sabado": 0.0,
+                "domingo": 0.0
+            },
+            {
+                "hour": 4,
+                "lunes": 0.0,
+                "martes": 0.0,
+                "miercoles": 0.0,
+                "jueves": 0.0,
+                "viernes": 0.0,
+                "sabado": 2.0,
+                "domingo": 0.0
+            },
+            {
+                "hour": 5,
+                "lunes": 0.0,
+                "martes": 2.0,
+                "miercoles": 0.0,
+                "jueves": 0.0,
+                "viernes": 0.0,
+                "sabado": 1.0,
+                "domingo": 0.0
+            },
+            {
+                "hour": 6,
+                "lunes": 2.5,
+                "martes": 4.0,
+                "miercoles": 1.75,
+                "jueves": 3.67,
+                "viernes": 1.67,
+                "sabado": 2.5,
+                "domingo": 0.0
+            },
+            {
+                "hour": 7,
+                "lunes": 29.33,
+                "martes": 27.75,
+                "miercoles": 30.25,
+                "jueves": 59.5,
+                "viernes": 38.25,
+                "sabado": 2.33,
+                "domingo": 1.0
+            },
+            {
+                "hour": 8,
+                "lunes": 51.5,
+                "martes": 57.5,
+                "miercoles": 57.5,
+                "jueves": 111.25,
+                "viernes": 61.5,
+                "sabado": 30.0,
+                "domingo": 0.0
+            },
+            {
+                "hour": 9,
+                "lunes": 56.67,
+                "martes": 63.75,
+                "miercoles": 55.25,
+                "jueves": 88.25,
+                "viernes": 65.0,
+                "sabado": 36.0,
+                "domingo": 1.0
+            },
+            {
+                "hour": 10,
+                "lunes": 64.33,
+                "martes": 66.75,
+                "miercoles": 63.5,
+                "jueves": 85.0,
+                "viernes": 76.75,
+                "sabado": 37.5,
+                "domingo": 4.5
+            },
+            {
+                "hour": 11,
+                "lunes": 87.0,
+                "martes": 61.5,
+                "miercoles": 64.5,
+                "jueves": 81.75,
+                "viernes": 70.5,
+                "sabado": 63.75,
+                "domingo": 0.0
+            },
+            {
+                "hour": 12,
+                "lunes": 53.0,
+                "martes": 32.75,
+                "miercoles": 37.0,
+                "jueves": 60.33,
+                "viernes": 48.0,
+                "sabado": 4.33,
+                "domingo": 1.0
+            },
+            {
+                "hour": 13,
+                "lunes": 62.5,
+                "martes": 47.0,
+                "miercoles": 34.75,
+                "jueves": 50.5,
+                "viernes": 43.5,
+                "sabado": 1.0,
+                "domingo": 1.0
+            },
+            {
+                "hour": 14,
+                "lunes": 42.0,
+                "martes": 62.0,
+                "miercoles": 47.0,
+                "jueves": 80.25,
+                "viernes": 63.25,
+                "sabado": 3.0,
+                "domingo": 1.0
+            },
+            {
+                "hour": 15,
+                "lunes": 78.0,
+                "martes": 81.5,
+                "miercoles": 60.0,
+                "jueves": 78.25,
+                "viernes": 59.5,
+                "sabado": 0.0,
+                "domingo": 5.0
+            },
+            {
+                "hour": 16,
+                "lunes": 75.5,
+                "martes": 69.25,
+                "miercoles": 44.75,
+                "jueves": 77.5,
+                "viernes": 50.25,
+                "sabado": 0.0,
+                "domingo": 0.0
+            },
+            {
+                "hour": 17,
+                "lunes": 14.0,
+                "martes": 35.75,
+                "miercoles": 32.75,
+                "jueves": 36.5,
+                "viernes": 27.0,
+                "sabado": 0.0,
+                "domingo": 0.0
+            },
+            {
+                "hour": 18,
+                "lunes": 4.0,
+                "martes": 7.0,
+                "miercoles": 8.0,
+                "jueves": 2.67,
+                "viernes": 5.33,
+                "sabado": 0.0,
+                "domingo": 0.0
+            },
+            {
+                "hour": 19,
+                "lunes": 2.0,
+                "martes": 7.5,
+                "miercoles": 1.67,
+                "jueves": 3.67,
+                "viernes": 2.0,
+                "sabado": 0.0,
+                "domingo": 0.0
+            },
+            {
+                "hour": 20,
+                "lunes": 3.0,
+                "martes": 1.5,
+                "miercoles": 2.0,
+                "jueves": 8.67,
+                "viernes": 2.5,
+                "sabado": 0.0,
+                "domingo": 0.0
+            },
+            {
+                "hour": 21,
+                "lunes": 2.5,
+                "martes": 3.5,
+                "miercoles": 1.0,
+                "jueves": 3.0,
+                "viernes": 2.0,
+                "sabado": 0.0,
+                "domingo": 2.0
+            },
+            {
+                "hour": 22,
+                "lunes": 2.0,
+                "martes": 1.5,
+                "miercoles": 1.0,
+                "jueves": 4.0,
+                "viernes": 1.0,
+                "sabado": 0.0,
+                "domingo": 0.0
+            },
+            {
+                "hour": 23,
+                "lunes": 0.0,
+                "martes": 0.0,
+                "miercoles": 2.0,
+                "jueves": 4.5,
+                "viernes": 2.0,
+                "sabado": 0.0,
+                "domingo": 0.0
+            }
+        ]
+    },
+    "promedio_mensajes_por_hora_agente": {
+        "metadatos": {
+            "total_mensajes_agentes": 11694,
+            "agentes": [
+                "Andres echeverry",
+                "Viviana",
+                "Jenny",
+                "Edwar",
+                "Diana"
+            ],
+            "criterio_horas_laborales": {
+                "lunes_viernes": 8,
+                "sabado": 5,
+                "domingo": 0
+            }
+        },
+        "datos": [
+            {
+                "dia": "lunes",
+                "Andres echeverry": 19.5,
+                "Diana": 25.0,
+                "Edwar": 11.25,
+                "Jenny": 18.88,
+                "Viviana": 16.12
+            },
+            {
+                "dia": "martes",
+                "Andres echeverry": 19.55,
+                "Diana": 14.71,
+                "Edwar": 0.0,
+                "Jenny": 12.21,
+                "Viviana": 26.62
+            },
+            {
+                "dia": "miercoles",
+                "Andres echeverry": 15.19,
+                "Diana": 14.58,
+                "Edwar": 0.88,
+                "Jenny": 18.47,
+                "Viviana": 17.09
+            },
+            {
+                "dia": "jueves",
+                "Andres echeverry": 32.75,
+                "Diana": 20.0,
+                "Edwar": 8.62,
+                "Jenny": 23.91,
+                "Viviana": 20.31
+            },
+            {
+                "dia": "viernes",
+                "Andres echeverry": 34.96,
+                "Diana": 12.62,
+                "Edwar": 7.38,
+                "Jenny": 13.59,
+                "Viviana": 26.59
+            },
+            {
+                "dia": "sabado",
+                "Andres echeverry": 41.8,
+                "Diana": 8.0,
+                "Edwar": 0.0,
+                "Jenny": 30.0,
+                "Viviana": 20.13
+            }
+        ]
+    },
+    "promedio_primera_respuesta": {
+        "metadatos": {
+            "total_conversaciones_sin_plantilla": "1753",
+            "total_conversaciones_con_plantilla": "272",
+            "total_conversaciones": "2025",
+            "horario_laboral": {
+                "lunes_viernes": {
+                    "inicio": "07:00",
+                    "fin": "17:00"
+                },
+                "sabado": {
+                    "inicio": "08:00",
+                    "fin": "12:00"
+                },
+                "domingo": "no_laboral"
+            }
+        },
+        "datos": {
+            "tabla": [
+                {
+                    "tipo": "con plantilla",
+                    "promedio_minutos": 37.09647058823529
+                },
+                {
+                    "tipo": "sin plantilla",
+                    "promedio_minutos": 21.476463205932685
+                },
+                {
+                    "tipo": "total",
+                    "promedio_minutos": 23.57
+                }
+            ],
+            "legible": {
+                "con_plantilla": "37m",
+                "sin_plantilla": "21m",
+                "total": "23m"
+            },
+            "estadisticos": {
+                "tiempo_respuesta_minutos": {
+                    "count": 2025.0,
+                    "mean": 23.574558024691356,
+                    "std": 49.680830501143156,
+                    "min": 0.0,
+                    "25%": 2.16,
+                    "50%": 7.53,
+                    "75%": 23.09,
+                    "max": 553.67
+                }
+            }
+        }
+    },
+    "promedio_primera_respuesta_agente": {
+        "metadatos": {
+            "total_conversaciones_analizadas": 2009,
+            "agentes_excluidos_sistema": [
+                1,
+                11
+            ],
+            "nota": "Usa el mismo criterio de horario laboral que promedio_primera_respuesta"
+        },
+        "datos": [
+            {
+                "sender_id": "Andres echeverry",
+                "promedio_min": 12.976288659793815,
+                "legible": "12m"
+            },
+            {
+                "sender_id": "Diana",
+                "promedio_min": 17.873842794759828,
+                "legible": "17m"
+            },
+            {
+                "sender_id": "Viviana",
+                "promedio_min": 24.22820770519263,
+                "legible": "24m"
+            },
+            {
+                "sender_id": "Edwar",
+                "promedio_min": 25.62689655172414,
+                "legible": "25m"
+            },
+            {
+                "sender_id": "Jenny",
+                "promedio_min": 27.77720207253886,
+                "legible": "27m"
+            }
+        ]
+    },
+    "duracion_conversaciones": {
+        "metadatos": {
+            "total_conversaciones_analizadas": 2008,
+            "nota": "Duración calculada como suma de tiempos entre mensaje de contacto y respuesta de agente, en horario laboral"
+        },
+        "datos": {
+            "promedio_minutos": 107.36,
+            "mediana_minutos": 27.28,
+            "max_minutos": 6840.42,
+            "min_minutos": 0.0,
+            "legible": {
+                "promedio": "1h 47m",
+                "mediana": "27m",
+                "max": "114h 0m",
+                "min": "0m"
+            }
+        }
+    },
+    "conversion_agendamientos": {
+        "metadatos": {
+            "total_conversaciones": 2104,
+            "total_iniciadas_agendamiento": 708,
+            "total_no_iniciadas_agendamiento": 1396,
+            "total_agendadas_exitosas": 518
+        },
+        "datos": {
+            "tabla": [
+                {
+                    "metrica": "exito sobre iniciadas",
+                    "valor": 31.92090395480226
+                },
+                {
+                    "metrica": "exito sobre no iniciadas",
+                    "valor": 20.916905444126073
+                },
+                {
+                    "metrica": "total conversaciones agendadas",
+                    "valor": 24.61977186311787
+                }
+            ],
+            "pie_chart": [
+                {
+                    "label": "Agendadas exitosas",
+                    "cantidad": 518,
+                    "porcentaje": 24.62
+                },
+                {
+                    "label": "No agendadas",
+                    "cantidad": 1586,
+                    "porcentaje": 75.38
+                }
+            ]
+        }
+    },
+    "satisfaccion": {
+        "metadatos": {
+            "total_sesiones_raw": 571,
+            "total_sesiones_filtradas": 249,
+            "escala": "1 a 5"
+        },
+        "datos": {
+            "bot": {
+                "promedio": 4.5,
+                "total_respuestas": 249
+            },
+            "agente": {
+                "promedio": 4.6,
+                "total_respuestas": 249
+            }
+        }
+    }
+}
